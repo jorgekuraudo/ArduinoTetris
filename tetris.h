@@ -27,7 +27,7 @@ class tetris {
 
     void printHappy();
 
-    figure *generateFigure(); //dont understand well how this works
+    figure *generateFigure();
 };
 
 #endif
